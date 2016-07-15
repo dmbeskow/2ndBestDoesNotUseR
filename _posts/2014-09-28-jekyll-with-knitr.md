@@ -14,7 +14,7 @@ The R package [**servr**](https://github.com/yihui/servr) can be used to set up 
 
 As a result, all you need to do is write your blog posts (R Markdown documents), and you do not need to worry about re-building the website or calling **knitr** commands. Whenever you save a blog post in your text editor, the web page will be updated on the fly. This is particularly handy in the [RStudio IDE](http://www.rstudio.com), because after you run `servr::jekyll()` in the console, you can start writing or editing your R Markdown posts, and the HTML output, displayed in the RStudio viewer pane, will be in sync with your source post in the source panel (see the screenshot below).
 
-[![Jekyll with servr and knitr](http://i.imgur.com/gKVGhiP.png)](http://i.imgur.com/gKVGhiP.png | width=100)
+[![Jekyll with servr and knitr](http://i.imgur.com/gKVGhiP.png)](http://i.imgur.com/gKVGhiP.png=250x)
 
 ## Prerequisites
 
