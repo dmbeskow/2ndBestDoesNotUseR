@@ -21,17 +21,24 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
+
+
 h1 {
-  font-size:28px;
+  /*font-size:28px;*/
+  font-size: 3em;
 }
 
 h2 {
   color:#393939;
+  font-size: 2.7em;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
 }
+
+h3 { font-size: 2.3em; }
+h4 { font-size: 1.9em; }
 
 a {
   color:#39c;
